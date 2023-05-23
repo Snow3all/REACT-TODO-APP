@@ -1,6 +1,6 @@
 # TODO
 
-Todo website create with React.js use tailwindCSS and StyledComppnents
+Todo website create with React.js use tailwindCSS and StyledComponents
 
 ## How to run
 
